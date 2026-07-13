@@ -71,9 +71,6 @@ function App() {
           isLoggedIn ? <LogoutButton onClick={logout}/>:<LoginButton onClick={login}/>
         }
 
-
-
-
        </div>
 
 
